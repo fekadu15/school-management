@@ -66,7 +66,6 @@ function Login() {
     >
       <Card
         sx={{
-          boxShadow: '0 30px 60px rgba(0,0,0,0.15)',
           width: 420,
           borderRadius: 4,
           backdropFilter: 'blur(10px)',
